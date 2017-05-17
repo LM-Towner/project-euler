@@ -1,1 +1,1 @@
-## Practicing some algorithms using Ruby & Javascript
+##  Using project-euler for Practice with algorithms using Ruby & Javascript
