@@ -10,7 +10,7 @@ for(var num = 0; num < 1000; num++){
   }
 }
 
-// alternative solution similar to the ruby way using reduce 
+// alternative solution similar to the ruby way using reduce
 
 var storage = []
 
